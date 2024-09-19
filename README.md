@@ -10,17 +10,17 @@ The dataset used for this analysis is available on Kaggle. Access it here:https:
 
 ## Key Findings
 
-- **Top Streaming Song on Spotify**: Blinding Lights
-  ![image](https://github.com/user-attachments/assets/95568ddd-3297-4d88-98a6-754128803c37)
+- **Top Streaming Song on Spotify**: Blinding Lights  
+  ![Blinding Lights](https://github.com/user-attachments/assets/95568ddd-3297-4d88-98a6-754128803c37)
 
-- **Top Song by Views on YouTube**: Baby Shark
-  ![image](https://github.com/user-attachments/assets/1de59d5d-b536-47d7-a22d-4488647f3645)
+- **Top Song by Views on YouTube**: Baby Shark  
+  ![Baby Shark](https://github.com/user-attachments/assets/1de59d5d-b536-47d7-a22d-4488647f3645)
 
-- **Top Streaming Artist on Spotify**: Bad Bunny
-  ![image](https://github.com/user-attachments/assets/9d780bf1-a0db-45b3-9c4c-86107747e06e)
+- **Top Streaming Artist on Spotify**: Bad Bunny  
+  ![Bad Bunny](https://github.com/user-attachments/assets/9d780bf1-a0db-45b3-9c4c-86107747e06e)
 
-- **Top Artist by YouTube Views**: Bad Bunny
-  ![image](https://github.com/user-attachments/assets/a043733d-5346-41c8-9d4c-3c75f4c344d7)
+- **Top Artist by YouTube Views**: Bad Bunny  
+  ![Bad Bunny YouTube](https://github.com/user-attachments/assets/a043733d-5346-41c8-9d4c-3c75f4c344d7)
 
 ## Tools Used
 
